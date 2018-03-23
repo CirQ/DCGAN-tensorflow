@@ -1,5 +1,4 @@
 # Data
-data
 samples
 *.zip
 logs
@@ -86,3 +85,4 @@ Session.vim
 .netrwhist
 *~
 
+.idea
