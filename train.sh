@@ -1,0 +1,1 @@
+python main.py --input_height 128 --input_width 128 --output_height 128 --output_width 128 --dataset $1 --crop --train --epoch 300 --input_fname_pattern "*.jpg"
